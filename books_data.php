@@ -17,7 +17,7 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse1">
                 <div class="navbar-nav">
-                    <a href="data-list.php" class="nav-item nav-link active">Sign In</a>
+                    <a href="index.php" class="nav-item nav-link active">Sign In</a>
                     <a href="All_tables.php" class="nav-item nav-link">All Tables</a>
                     <a href="#" class="nav-item nav-link">Books Data</a>
                 </div>                
